@@ -143,6 +143,8 @@ pm2 start “haraka -c .” --name Mail-server
 pm2 save
 pm2 startup
 
+exit 
+
 
 
 
