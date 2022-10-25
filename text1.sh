@@ -1,2 +1,2 @@
-my name is venkateswarlu i completed degree
+my name is venkateswarlu 
 
